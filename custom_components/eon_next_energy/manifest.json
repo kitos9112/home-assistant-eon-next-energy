@@ -2,16 +2,16 @@
   "domain": "eon_next_energy",
   "name": "E.ON Next Energy Data",
   "codeowners": [
-    "@crofts32"
+    "@kitos9112"
   ],
   "config_flow": true,
-  "documentation": "https://github.com/crofts32/home-assistant-eon-next-energy",
+  "documentation": "https://github.com/kitos9112/home-assistant-eon-next-energy",
   "integration_type": "service",
   "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/crofts32/home-assistant-eon-next-energy/issues",
+  "issue_tracker": "https://github.com/kitos9112/home-assistant-eon-next-energy/issues",
   "requirements": [],
   "single_config_entry": true,
-  "version": "0.3.4",
+  "version": "0.4.0",
   "dependencies": [
     "http"
   ]
